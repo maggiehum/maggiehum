@@ -2,8 +2,8 @@
 <h3>A passionate full stack developer</h3>
 
 - 🔭 I’m currently working on **a personal project**
-
-- 🌱 I’m currently learning **Django and Angular**
+<!-- 
+- 🌱 I’m currently learning **Django and Angular** -->
 
 - 📫 How to reach me **hum.maggie@gmail.com**
 
